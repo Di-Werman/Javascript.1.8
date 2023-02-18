@@ -31,9 +31,9 @@ if (carAge < 5) {
 
 // 0 null undefined '' Nan - false
 
-var empty = 'Hello'
+var str = 'Hello'
 
-if (empty) {
+if (str) {
     console.log('Значение true')
 } else {
     console.log('Значение false')
